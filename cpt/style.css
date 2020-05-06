@@ -1,0 +1,14 @@
+.acf-postbox h2 {
+    background: #0073aa;
+    color: #fff;
+}
+
+.toggle-indicator:before,
+.acf-postbox>.hndle .acf-hndle-cog {
+    color: #fff;
+}
+
+.menu-icon-employees ul li:last-child,
+.post-type-employees a.page-title-action {
+	display: none;
+}

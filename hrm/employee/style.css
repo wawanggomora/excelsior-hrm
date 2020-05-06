@@ -1,0 +1,30 @@
+#your-profile {
+	font-family: 'Open sans', sans-serif;
+}
+
+#your-profile h2:first-of-type,
+#your-profile h2:nth-of-type(4),
+#your-profile tr.user-profile-picture,
+#your-profile tr.user-admin-color-wrap,
+#your-profile tr.show-admin-bar,
+#your-profile tr.user-description-wrap {
+    display: none;
+}
+
+
+/*.wrap h1.wp-heading-inline {
+    font-weight: 700;
+    text-transform: uppercase;
+}
+*/
+#your-profile h2 {
+    font-size: 16px;
+    color: #0073aa;
+    font-weight: 700;
+    margin-bottom: 0;
+}
+
+#profile-page .form-table textarea {
+    width: 25em;
+    resize: none;
+}
